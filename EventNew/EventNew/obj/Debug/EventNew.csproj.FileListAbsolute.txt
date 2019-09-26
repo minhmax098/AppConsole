@@ -1,0 +1,7 @@
+D:\Lập trình C#\EventNew\EventNew\obj\Debug\EventNew.csprojAssemblyReference.cache
+D:\Lập trình C#\EventNew\EventNew\obj\Debug\EventNew.csproj.CoreCompileInputs.cache
+D:\Lập trình C#\EventNew\EventNew\bin\Debug\EventNew.exe.config
+D:\Lập trình C#\EventNew\EventNew\bin\Debug\EventNew.exe
+D:\Lập trình C#\EventNew\EventNew\bin\Debug\EventNew.pdb
+D:\Lập trình C#\EventNew\EventNew\obj\Debug\EventNew.exe
+D:\Lập trình C#\EventNew\EventNew\obj\Debug\EventNew.pdb
